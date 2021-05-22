@@ -1,2 +1,2 @@
-# C-
+# C++
 CWH_C++(practice)
